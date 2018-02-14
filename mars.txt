@@ -2,4 +2,8 @@
 cold and dry but ...
 222222.
 33
+<<<<<<< HEAD
 hellloooooooo my version is better
+=======
+it will prob create a conflict!! haha
+>>>>>>> 58f9c0ebe47b7ee157d58f4855309b948b4f0973
